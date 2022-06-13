@@ -1,5 +1,5 @@
 # ATMproject
-This my first java project created using swing. It is an ATM interface which is displayed on ATM screen while we perform transactions.
+This is my first java project created using swing. It is an ATM interface which is displayed on ATM screen when we perform transactions.
 # Glimpse of the project
 https://user-images.githubusercontent.com/94816182/173361390-36d12e33-20fa-4423-8971-3fe0659688cc.mp4
 # Background Image
